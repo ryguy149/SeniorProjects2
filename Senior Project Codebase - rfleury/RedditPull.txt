@@ -1,0 +1,263 @@
+,body
+0,"Hi everyone,
+AMA.  But real quick a brief overview.
+In 2010 I was working as a software engineer on a team of people rewriting an optimizing dataflow compiler.  We were doing performance and functional testing, and wanted to build a cluster of machines to parallelize the testing.  To get the most of our budget, I offered to build the test machines.  I put together spreadsheets manually entering in price/performance/capacity data to find what would get us the best bang for our buck.  As I was doing that, I thought that the process was tedious and there should be a site to do that.
+So in April 2010 I started working on a side project to plot those CPU price-vs-performance and hard drive price-vs-capacity curves.  I wanted to learn Django and Python better.  My HTML at the time was 90s-ish at best - layouts done with tables and 1x1 transparent pixels, not CSS.  I bought a $20 admin theme off themeforest and wrangled it into what I needed.  I'm colorblind and not a designer by any stretch and that showed in the site.
+I started evolving the site to not just plot component curves, but factor in compatibility checks.  I was building new PCs every 3-4 years, and each time it involved coming up to speed with what the latest architectures and chipsets were.  That took time and I felt like part of that process could be automated.
+Late December 2010 after a heads-up about this community on HN, I [posted in /r/buildapc for the first time](https://www.reddit.com/r/promos/comments/ec5nl/pick_parts_build_your_pc_compare_prices_and_share/). 
+When I first started I told my wife that there was a monetization opportunity through retailer affiliate links, and if we were lucky maybe we could go get coffee or see a movie.  I left my job to work on PCPP full-time over eight years ago.
+I hired /u/manirelli a bit over seven years ago.  /u/ThoughtA also joined us over four years ago.  (Both those guys are here to answer questions too).  They handle all of the component data entry, community engagement, and a host of other things.  They're amazing.
+What started as price tracking a few retailers in the US is now over 200 retailers across 37 countries, processing hundreds of millions of price updates a day.  Brent is the guy who handles all of that, and Jenny manages those retailer relationships.  It's a ton of work and I'd be lost without them.
+Not to leave anyone out, but huge thanks to the rest of the team.  Phil (you can thank him for all the whitespace lol), AJ, Daniel, Jack, Barry, and Nick.  You all rock.  I'm incredibly blessed to get to work with all of you every day.
+This has been such a ride I can't explain it.  I've felt so incredibly blessed to be able to be a part of this community and what it does every day.  Thank you.
+-- Philip
+-
+With all that being said, AMA.  There may be some things I can't comment on if they involve agreements or confidential terms.
+And yes, we're working on an app.  A PWA.  May go native later but no guarantees.  I hope to have it out by Christmas.  I had hoped to have it ready by today but it's just not there yet.
+**EDIT**: Holy comments batman.  Gonna try to answer as many as I can today."
+1,"Last Saturday I posted about building a gaming computer for my son for pretty much just Minecraft.  I had $300 to work with.  I expected a few replies and a few pointers.  The response to that post was unbelievable.  I woke up the next day and my wife told me she needed to silence my phone in the middle of the night.  Over 40K views and over 300 replies.  I now know the meaning of RIP inbox.  I got a lot of great advice from a lot of people.  In the end, it was pretty clear.  I could build it for $300, but it wouldn't be great.  It may play Minecraft, but that's about it.  I would be better off spending more money on a build, and well, my wife and I didnt really have more money to put towards it.
+Let me start by saying I was messaged by quite a few of you about graphics card, mother boards, processors that they had laying around. Willing to send them to me for nothing, or maybe some shipping.  The generosity of this sub is amazing.  I was never looking for anything but advice, and many of you offered many things.  For that I am very grateful.
+Then I was messaged by a member of this sub who wishes to remain anonymous.  They offered to purchase a WHOLE BUILD for me.  They said they were around my son's age when they got into building computers and technology.  They now work with computers as their profession and wish they could have shared a similar experience with their dad growing up.   I was skeptical to say the least, but they were very genuine in their message and honestly I don't know how I could have said no.
+Over the next few days we sent messages back and forth and he put together a build for my son and I.  My wife kept telling me its crazy and someone was messing with me.  I stayed a little skeptical but I could tell through the conversations we had that this person was truly a good person looking to make a positive impact.
+As of last night, all the parts were ordered and are being shipped straight to my house.  They have sent me order confirmations as well as tracking on all the parts for the build from Amazon and Newegg.
+Here is the build:
+[PCPartPicker part list](https://pcpartpicker.com/list/Qybxyf) / [Price breakdown by merchant](https://pcpartpicker.com/list/Qybxyf/by_merchant/)
+Type|Item|Price
+:----|:----|:----
+**CPU** | [AMD - Ryzen 7 1700 3.0GHz 8-Core Processor](https://pcpartpicker.com/product/3kPzK8/amd-ryzen-7-1700-30ghz-8-core-processor-yd1700bbaebox) | $279.99 @ B&H 
+**CPU Cooler** | [Noctua - NH-U12S SE-AM4 CPU Cooler](https://pcpartpicker.com/product/7dTrxr/noctua-nh-u12s-se-am4-cpu-cooler-nh-u12s-se-am4) | $59.90 @ Amazon 
+**Motherboard** | [MSI - B350M PRO-VH PLUS Micro ATX AM4 Motherboard](https://pcpartpicker.com/product/qys8TW/msi-b350m-pro-vh-plus-micro-atx-am4-motherboard-b350m-pro-vh-plus) | $56.98 @ Newegg 
+**Memory** | [Corsair - Vengeance LPX 16GB (2 x 8GB) DDR4-3000 Memory](https://pcpartpicker.com/product/2skwrH/corsair-memory-cmk16gx4m2b3000c15r) | $204.99 @ Newegg 
+**Storage** | [SanDisk - X400 256GB 2.5"" Solid State Drive](https://pcpartpicker.com/product/vyKhP6/sandisk-internal-hard-drive-sd8sb8u256g1122) | $97.99 @ B&H 
+**Video Card** | [MSI - GeForce GTX 1080 8GB DUKE OC Video Card](https://pcpartpicker.com/product/49YWGX/msi-geforce-gtx-1080-8gb-duke-oc-video-card-gtx-1080-duke-8g-oc) | $514.98 @ Newegg 
+**Case** | [Fractal Design - Focus G (Black) ATX Mid Tower Case](https://pcpartpicker.com/product/ZHmxFT/fractal-design-focus-g-black-atx-mid-tower-case-fd-ca-focus-bk-w) | $54.99 @ SuperBiiz 
+**Power Supply** | [SeaSonic - FOCUS Plus Gold 650W 80+ Gold Certified Fully-Modular ATX Power Supply](https://pcpartpicker.com/product/WrNypg/seasonic-focus-plus-gold-650w-80-gold-certified-fully-modular-atx-power-supply-ssr-650fx) | $83.99 @ SuperBiiz 
+ | *Prices include shipping, taxes, rebates, and discounts* |
+ | Total (before mail-in rebates) | $1363.81
+ | Mail-in rebates | -$10.00
+ | **Total** | **$1353.81**
+ | Generated by [PCPartPicker](http://pcpartpicker.com) 2017-12-06 18:00 EST-0500 |
+All I can say is that it is truly a Christmas miracle. 
+I have never been so moved by the generosity of one person before.  I am in shock and words cannot describe the excitement I have to build this amazing computer with my son. 
+I do not think I will ever be able to thank this person enough for what they have done.  All they asked in return is to pay it forward.  And believe me I will!
+I will be sure to update when the build is completed!  
+Merry Christmas everyone!  
+TLDR: Wanted to build with my son.  Didn't have a budget that was good.  A stranger on the internet sent me $1300+ of parts to build with my son.  I still am in shock.
+Edit:Spelling
+Edit2: Wow. Thank you for the gold.  This community is gold. Thank you so much to everyone here.  This has been an amazing few days!  Also RIP inbox again lol
+UPDATE: The Build is Complete! https://www.reddit.com/r/buildapc/comments/7mqw43/my_son_and_i_finished_the_build_that_an_anonymous/
+"
+2,"It's not perfect, and there have been a number of times that I haven't been able to find a specific part(that I know exists but they don't have it in their database), but it's a wonderful tool that has saved all of us an unimaginable amount of time in the building process. 
+I mean, imagine a world without it.
+You have to double and triple check all compatibilities, look through all the different retailers for the lowest prices, write down build lists yourself. Calculate the TDP, make sure your graphics card isn't too long and your CPU cooler isn't too tall.
+They do all of this for you and more. They let you store multiple lists and post finished builds. And you have all of that saved online where you can access it anywhere.
+Best yet, I heard they're working on a website overhaul to make mobile use more fluid.
+I want everybody who sees this to take a moment to remember how valuable PCPartPicker has been to all of us. For free. Because they believe in the cause.
+Edit: of course they make their money somehow, but they don't charge us for their services
+Edit 2: Happy New Year!!"
+3,"In the light of a [recent post](https://www.reddit.com/r/buildapc/comments/7elfrz/join_the_fight_for_net_neutrality) on the subreddit, we're making this single megathread to promote an open discussion regarding the recent announcements regarding Net Neutrality in the United States. 
+Conforming with the precedent set during previous instances of Reddit activism ([IAMA-Victoria](https://www.reddit.com/r/buildapc/comments/3byyem/announcement_rbuildapc_is_not_going_dark/), [previous Net Neutrality blackouts](https://www.reddit.com/r/KeepOurNetFree/comments/6flss4/on_july_12th_the_internet_is_planning_a_day_of/)) **BuildaPC will continue to remain an apolitical subreddit**. It is important to us as moderators to maintain a distinction between our own personal views and those of the subreddit's. We also realize that participation in site-wide activism hinders our subreddit’s ability to provide the services it does to the community. As such, Buildapc will not be participating in any planned Net Neutrality events including future subreddit blackouts. 
+However, this is not meant to stifle productive and intelligent conversation on the topic, do feel free to discuss Net Neutrality in the comments of this submission! While individual moderators may weigh in on the conversation, as many have their own personal opinions regarding this topic, they may not reflect the stance the subreddit has taken on this issue. As always, remember to adhere to our subreddit’s rule 1 - Be respectful to others - while doing so."
+4,My younger brother is the fucking man! He traded his unopened ps5 to get me a Christmas gift. He tells me that jayzTwoCents was looking for someone in Southern California to trade an unopened ps5 for a 3080. I can’t believe he did this for me! I wanna cry 😭 he even asked jayz to sign the box for me. I’m too lucky to have such a brother! Thanks to @jayztwocents as well. Merry Christmas everyone!
+5,"I ain't ever doing that shit again, you fuckers lied to saying it would be easy... took me 8 hours"
+6,https://www.youtube.com/watch?v=56fZ_OC8HkY&t=
+7,I’m gonna need a minute.
+8,Let's take a moment to thank them.
+9,"# (THIS GIVEAWAY HAS ENDED AS OF 10/30/20 7PM EST)
+Hey there party people, it's Cooler Master Beardman!
+​Cooler Master has partnered with a number of companies to bring a lucky winner a (mostly) full [build](https://imgur.com/2NesPDJ). Sadly, we weren't high enough level to unlock the CPU, but still the rest of the system is there, and it's a beast! This build will definitely need assembly which is great because you're part of the 'build' a PC community. If you'd like a chance to win the build, all you need to do is leave a comment below on what you intend to do with this machine if you win. As well, fill out a quick Google doc for us. It helps us keep things in order when selecting a winner. With that out of the way, let's get to the components that will be given.
+# Grand Prize
+* Case: TD500 Mesh Black + Vertical GPU Holder Kit Ver2.
+* PSU: V Gold 750W
+* Cooling: MasterLiquid ML280
+* MOBO: Z490 PG Velocita
+* GPU: ZOTAC GAMING GeForce RTX 3070 Twin Edge OC
+* RAM: PVR416G320C6K
+* SSD: VPR100 M.2 RGB SSD -512GM28H
+# How to enter!
+Leave a comment on this post with what you'd use this system for if you were to win.
+Fill out a quick [Google Form](https://forms.gle/1yUWm1Rm1LaW7Smt8) for us (only takes a few seconds).
+# Boring, but necessary giveaway info.
+* Giveaway is global, so all can enter!
+* Giveaway will run for 1 week and will end on Friday the 30th at 7pm EST.
+* If you're going to mention this giveaway to anyone (and we think you should), make sure you send the reddit link so we can get more people involved in the BAP subreddit, without them this giveaway wouldn't be possible.
+* Winner will be selected randomly.
+* Winner will be announced here on the post and in the comments.
+# Partners and extra info.
+[Additional build giveaway!](https://landing.coolermaster.com/pages/rtx-3000-compatibility/#rtx3070-bombo)
+[PCGaming giveaway!](https://www.reddit.com/r/pcgaming/comments/jiicm2/cooler_master_and_friends_wpcgaming_giveaway/)
+[Cooler Master](https://www.coolermaster.com/)
+[Viper](https://viper.patriotmemory.com/)
+[ASRock](https://www.asrock.com/)
+[ZOTAC](https://www.zotac.com/)
+#Winner!
+u/Str8Victory Congratz bud!"
+10,"As the title says, everything in my PC is working, but my monitor won't turn on. I have the HDMI cable plugged into the GPU. Any idea what I can do to fix this? Thank you"
+11,"I'm not an ""Intel fanboy"". I'm not an ""AMD fanboy"". I'm a fanboy of my bank balance. People, *none* of these companies care about you; they care about their profits and their stakeholders.
+Now on to the topic. YES, Ryzen is an EXCELLENT platform. It really is, and it really has brought the competition that benefits the end user. But this does NOT mean we should be saying *""oh there's like no competition, Ryzen is better value hands down""*. This is NOT true.
+The 3600 vs 10400 vs 10400F is an excellent mid-range example of this.
+If I posted on this subreddit and asked for a mid-range build, most people would recommend a Ryzen 3600; and that's great! It really is an excellent value CPU. But what people fail to realise is that **so is the i5 10400F.** Both are 6/12 CPUs and both offer VERY similar gaming performance, indistinguishable to the to the end user if you played a few games using both CPUs.
+The problem with recommending only a 3600, and not pointing out that the 10400F has very similar performance, is that people will not even bother checking the price of a 10400/10400F. If the 10400F is cheaper than the 3600, why would you *not* get it?
+Sincerely, from someone whose friend bought a 3600 over a 10400 for video editing on Adobe Premiere Pro because ""AMD is better for productivity"". For those who are unaware Adobe Premiere Pro greatly benefits from Intel QSV in both timeline scrubbing and rendering times. A 10400 will destroy a 10400F and a 3600 in Premiere Pro (with HW acceleration ofc). Worst part is, the 10400 was on sale on $299AUD where I live, compared to the Ryzen 3600 costing the normal $349AUD.
+Edit: number of downvotes really speaks for how much people don't like listening to logic and sticking with the AMD good Intel bad mentality.
+Edit 2: Wow this blew up
+Edit 3: Yes if the Ryzen 3600 is cheaper than the 10400F, then get that! That's my point, they both perform the same, get whichever is cheaper.
+Edit 4: I'm honoured my gold award cherry has been finally popped"
+12,"I was refreshing like a mofo, and never even got it to say ""add to cart."" jumped from ""notify me"" to ""out\_of\_stock."""
+13,"I'm not going to preach to anyone about the dAnGeRs Of VaPiNg. I do it, constantly, all day long. I get it, you vape bro.
+I recently built a PC using Corsair's Spec Delta RGB case and bunch of LL 120 fans in a front to back airflow configuration. The case has been left with the side panels off as I've been constantly troubleshooting issues with this build from GPU failure to a B550 board not allowing me to control my own fan LEDs. I've been vaping, like an idiot, next to it the whole time. **THIS IS NOT WHAT MESSED UP THE FANS**
+When I go to clean things out, the dust is sticky, almost moist in most places. I can see droplets forming around the rim of my AMD Wraith Prism cooler. It's from all the moisture being put into the air when I exhale the vape. Very bad, potentially system ruining, situation.
+Just a crazy thing I thought some of the community might want a heads up on.
+* **EDIT: Hey folks, try reading THE VERY FIRST LINE of the post. Stop coming hear with you ""smoking/vaping bad"" pitches. We're all adults. We know, and we obviously don't care.**
+* **EDIT 2: Go look at the first line of the OP again. The ""we get it, you vape"" jokes have already been made. You're not clever.**"
+14,"I bought 2 copies of Windows 10 Home OEM from Newegg.com for $85 each on sale.  This is consistent with genuine OEM pricing around $100.  They emailed me two copy/pasted keys.  Both failed to activate Windows so I called Microsoft.  They checked the keys and said both were pirated!  This is not a genuine Microsoft product!
+I contacted Newegg.com and was transferred to a supervisor.  They refused to replace the keys with verifiably genuine Microsoft products and refused a refund.  They did offer to email me more pirated keys(they called them digital but could offer no evidence they were anything other than what Microsoft said). They refused to acknowledge that Microsoft confirmed Newegg.com’s keys were pirated, constantly trying to say things like, “I’m sorry you weren’t able to get your keys to work” or, “I can assure you that all of our keys are genuine, but they don’t always work.”   Fact check;  Microsoft has already confirmed these were pirated keys.  As for them not always working?  49% of Newegg’s reviews for this item are 1 Star...nearly all of them saying the same thing...the keys don’t work and Microsoft says they are no good.  Wish I’d noticed that before I bought...which is why I am here, actually.  Don’t make the same mistake as me.  I’ll be disputing the credit card charges and I’m optimistic since Microsoft has my back, but what a hassle!
+By the way, I just bought a ton of hardware from Newegg that works fine.  If it didn’t, I’d be in trouble because they are notorious for not RMAing bad components, but everything I bought was stuff I’d be comfortable taking straight to the manufacturers.  7 dead pixel minimum to return a monitor!? Sometimes the deals aren’t worth dealing with a company like this.  Definitely not the place to buy software or easily counterfeit goods.
+TLDR; Don’t buy software from Newegg.com.  They sold me pirated windows keys that don’t work and refuse to replace them with genuine products or issue a refund.
+"
+15,"Funny story, my brother built a medium to high spec pc about a year ago. He constantly moaned about performance, lag spikes and general unplayability in games. So today I decide enough is enough, and go and check it over. He had his hdmi plugged into his onboard graphics, for a year..."
+16,You're pretty cool
+17,"I'm confused about the names of gpu names for examle nvidia geforce 3080, gigabyte 3080, zotac 3080, evga 3080 so on and so forth. Are they the same gpus with the same specs just different name manufacturers?
+EDIT: I didn't expect that this will blow up! I hope that many have gained knowledge on this post. I thank you for everybody for sharing and educating us. Don't be afraid to ask simple questions that's bothering you or scared to look dumb. Don't underestimate your ability nto ask questions. Again thank you everyone and for the awards. Namaste."
+18,"#Guide to Setting up Windows 10 & Maintaining your PC ^^Updated ^^4/22/2020
+This is assuming you have successfully completed your PC build and are wondering what to do next. Here’s a few helpful tips I have learned over the years. 
+**Warning:** Yee who don't like opinions, probably don't dare enter..
+&nbsp;
+**Windows Installation:**
+Download [Windows Media Creation Tool](https://www.microsoft.com/en-us/software-download/windows10). Create a USB installation drive using the tool and boot to the drive by changing boot order in your motherboard UEIF/BIOS.
+Start the install, choose “Customize Settings” and turn everything on this screen off. Proceed to install Windows with a local account. If you're okay with Microsoft collecting some data, you can always sync your Windows account later in **Settings > Accounts**. The benefit being Windows will backup your settings and can sync them with other PCs you own. 
+Once you boot up, head over to **Settings > Update and Security**. Check for updates and go grab your favorite beverage and let it complete, you may reboot multiple times during this step.
+Once you're done updating, go to **Start > Settings > Privacy** and go down [the list on the left](https://i.imgur.com/FZ8TqkW.png) and turn everything off unless you actually use it. 
+* Same goes for background apps -- only disable apps from running in the background that you don't want notifications from. It's safe to disable background apps completely if you don't care.
+* Under ""Feedback & Diagnostics"" switch that to ""Basic"". Once that is done, head to **Settings > Update and Security > Advanced Options > Delivery Optimization** and turn it off. That setting allows P2P updates across your network which is a potential security risk.
+* Next head over to **Settings > Network and Internet > Wi-Fi** and turn everything off here besides the Wi-Fi itself. 
+Having done all of that correctly, you have disabled the bulk of data logging, background app usage and diagnostic feedback. Yay! Windows is installed. Much of what you do next is personal preference (appearance, software, customization) but there are a few things I would like to recommend.
+&nbsp;
+***
+**Quick accessibility tip - Open Control Panel and at the top-right change ""View by:"" to ""Small icons"". It will make more sense following this guide.** 
+***
+&nbsp;
+**Update motherboard BIOS** - If everything is working properly, and you are happy with the performance of your PC - It is generally not recommended to update the BIOS as there is always the potential for something to go wrong. That being said, if you follow the installation instructions **exactly** from your MOBO manufacturer, you will be fine. 
+* For all BIOS and firmware updates, I will refer you to your manufacturer’s support page to ensure you are getting the latest and greatest. Follow the instructions there for how to install (typically downloading the update to a FAT 32 USB drive and flashing the update in your UEIF/BIOS). 
+&nbsp;
+**Drivers:** Windows 10 will automatically update and install drivers for your hardware via Windows Update. This is typically fine for everything except your GPU and chipset, which we will take care of next. 
+&nbsp;
+**Update your graphics card driver** – Again, head over to your manufacturer’s website and follow the instructions there to install:
+AMD - [http://support.amd.com/en-us/download](http://support.amd.com/en-us/download)
+NVIDIA - [http://www.nvidia.com/Download/index.aspx](http://www.nvidia.com/Download/index.aspx)
+&nbsp;
+**Update your chipset drivers:** - Chipset drivers are a set of operating instructions which tells your CPU how to behave and interact within your PC. Typically these will come with a optimized power plan for your CPU which you can enable in Control Panel > Power Options. 
+AMD - [http://support.amd.com/en-us/download](http://support.amd.com/en-us/download)
+Intel - https://www.intel.com/content/www/us/en/support/articles/000005533/software.html
+&nbsp;
+At this point it may be a good idea to grab [HWiNFO64](https://www.hwinfo.com/download/) (also in the Additional Tools section below) to check the internal temperatures of your CPU, GPU, etc.. to make sure nothing looks out of the ordinary. If anything appears abnormal you can try reapplying the thermal paste to make sure you have adequate coverage. 
+As far as where temperatures should be. That will differ drastically depending on your cooling solution (air, water, AIO, passive), ambient temperatures, overall case airflow and cooling performance of individual hardware. Generally if you are idling and your CPU/GPU is near or under 45°-50° you are likely doing just fine. 
+&nbsp;
+You can also test your ram by using Windows Memory Diagnostic. Just type **Windows Memory Diagnostic** in to Windows search and it will come up. You will be required to restart your PC to test. When you are done, head to **Event Viewer > Windows Logs > System** and the results should be the most recent log (at the top). If it's not, filter for Event ID 1201. 
+&nbsp;
+**Change refresh rate on monitor** - If you have a 144hz or 120hz monitor, and either a DisplayPort, HDMI 2.0, or DVI-D (Dual-Link) connection, it’s a good time to look at your refresh rates. If you own an Nvidia card, change it in Nvidia control panel. For an AMD card, follow these steps:
+* Right-click your desktop and choose Display settings
+* Scroll down and select Display adapter properties
+* In the properties window click on List All Modes
+* Scroll down and choose your desired mode (e.g. 144hz) and apply
+**Note:** If you have more than one monitor you will need to select the other monitor in windows display and repeat steps above. 
+&nbsp;
+***
+**Edit:** Ehh.. Thinking back I would just ignore this part. The firmware your drives ship with are just fine. It's not worth it, just leave it alone. 
+~~**Update your SSD firmware** - This may be a new concept to those coming from an HDD but your SSD’s firmware can be updated as well. To begin, head over to your manufacturer’s support page (yes again) and to ensure things go smoothly, I recommend downloading their management software. If you just purchased your SSD, you will more than likely find it is already updated. They are not frequent so if you're not concerned, feel free to skip this step.~~
+~~• Crucial offers their “Storage Executive Management software”, and Samsung has “Samsung Magician”. If you own a different SSD search its support page and see what they offer.~~
+~~• Crucial offers a “Momentum Cache” feature which speeds up your drive at the expense of using RAM and the potential for data loss. I go into more depth on it [in a previous post]( https://www.reddit.com/r/buildapc/comments/7mf8yo/reminder_your_ssds_firmware_can_be_updated/). Personally, I’d leave it disabled if you’re happy with its performance and your workload doesn't demand it. For normal gaming and office use you won't notice a difference. Samsung offers a similar feature called ""Rapid"" and while I have not used it personally, I would say my opinion on it stands.~~
+~~**Warning:** Some manufacturers may format when upgrading. *Please* **READ** the instructions carefully. I am not responsible for any data loss.~~ 
+[Crucial Firmware - USA](http://www.crucial.com/usa/en/support-ssd?cm_re=us-support-_-main-_-firmware-update-link)
+[Samsung SSD support page](http://www.samsung.com/semiconductor/minisite/ssd/download/tools/)
+&nbsp;
+***
+**Anti-virus/malware:** 
+This can be a polarizing subject for some, and I can only offer my experience, but after years of searching and experimenting this is what works for me. I will also preface this by saying, depending on your browsing/download habits this can change entirely. Ultimately, my best advice on the subject is: 
+#Do your research and find what works best for you.
+That being said, I use the following and it's all available for free… 
+**Anti-Virus:** Windows Defender – For me, Windows Defender is good enough. It’s simple, and FREE. Stay vigilant and let it run on its schedule scans and build its definitions, scan periodically if you wish.
+**Anti-Malware:** Malwarebytes Free/uBlock Origin – Again, the free version of Malwarebytes is good enough for me. While browsing, uBlock will do the bulk of your malware blocking and if you suspect anything got by, run a Malwarebytes scan. I run Malwarebytes every couple of weeks personally for peace of mind.
+**Firewall:** Windows Firewall. While behind a router there isn't much use for a soft Firewall, it is good for protecting yourself within your own network. E.g. if another PC on your network gets infected, it could prevent your device from contracting the virus/malware. It is also useful to create outbound rules for preventing certain applications from accessing the internet if you don't want them too. 
+&nbsp;
+**Additional Plug-ins for safer browsing:**
+* [Privacy Badger](https://www.eff.org/privacybadger) - Privacy Badger stops advertisers and other third-party trackers from secretly tracking where you go and what pages you look at on the web.
+* [HTTPS Everywhere](https://www.eff.org/https-everywhere) - HTTPS everywhere rewrites all web requests to use HTTPS wherever possible. 
+* [NoScript](https://noscript.net/) - NoScript is an open source add-on that allows JavaScript, Java, Flash and other plugins to be executed only by trusted web sites of your choice (e.g. your online bank).
+&nbsp;
+**Additional configuration:**
+Malwarebytes:
+* Go into the settings and enable “Scan for rootkits”.
+uBlock Origin:
+* The default settings will block 99% of ads and malware, but if you want more protection/AD blocking/annoyances filtering, head over to **uBlock settings > 3rd party filters**. I enabled all uBlock filters (except Experimental), all “Ads” filters (except mobile), all “Privacy” filters, all “Malware Domains” filters and all “Annoyances” filters. 
+I’ve never had any issues browsing or viewing content while using these settings, but to each their own.  If you have issues you can always reset to default on the settings home page. There is said to be a drop in performance if you are doubling up on items in your lists, but if there is it's negligible and I haven't noticed any. Other than that, the worse that can happen is that you increase the chance of rendering a page incorrectly. Not a bad trade off for peace of mind while browsing.
+&nbsp;
+***
+**Performance Monitor:**
+Windows should be mostly configured at this point. I'd recommend running this report to see if Windows detects any issues or has any suggestions about your current setup. If you receive passing grades on everything, pat yourself on the back. If you received a fail or warning, don't panic, just read the suggestion and follow the instructions on how to resolve it:
+1. Open a 'RUN window' by pressing the 'Windows key + R'
+2. Type **perfmon /report** and hit Run
+3. Wait and check your results
+&nbsp;
+I like to routinely check **Reliability Monitor** just to see how my system is doing day to day. It will report any critical errors or update failures so you can, well... see how ""reliable"" your system is. If you go 5 days without any critical errors reported than congratulations you have a very healthy system. Also, keep in mind the extent of the error reported. If Malwarebytes crashing shows up as a critical error or crash, I don't think that's a good representation of your system health. Some stuff is unavoidable, Windows isn't near perfect. 
+Along with Reliability Monitor, keep an eye on **Event Viewer** to track any errors you may come across. It should be your first step in troubleshooting issues. Ignore any ""DistributedCOM"" errors. They've been around since Windows 8 and everyone gets them, they're harmless. 
+&nbsp;
+**CPU Overclocking:**
+There is a huge community behind overclocking, and while it can be fun to eek out extra scores in benchmarks, it honestly isn't worth the hassle of the average PC user. On modern Ryzen and Intel chips, algorithms have been built into account for this and will automatically clock frequencies up and down depending on thermal performance. If you bought a CPU in 2018 or later, my opinion would be to just let it do it's thing. 
+&nbsp;
+**XMP Profile / Overclocking RAM**
+Enable your XMP profile in BIOS so your RAM can run at its rated speed. There are too many different boards and ways to do this, so just type your ""motherboard name + XMP Profile"" into Google to see how to do it.
+***
+**Maintenance/Upkeep:** 
+Windows Disk Cleanup. Nothing against CCleaner, but it's unnecessary and deletes valuable Windows Defender files. Also, it comes with a registry cleaner which **shouldn't be used for any reason.** 
+Realistically, if you're not pressed on hard drive space or experiencing issues, there is no reason to run a cleaner of any kind. If you run Windows Disk Cleanup just understand what you are cleaning before you check mark it for deletion. 
+&nbsp;
+**Registry:**
+Your registry is essentially a Windows database that informs your operating system and applications how to behave and appear. That being said,  **Don't use registry cleaners**. While CCleaner is harmless when used correctly, messing with your registry always creates the potential for harm. You will never see any measurable performance increase from using a registry cleaner.
+If you know what you are doing, the registry is a fantastic tool for making UI or OS changes (e.g. removing the ""3D objects folder from File Explorer, removing OneDrive, etc...). As always, just make a backup first.
+&nbsp;
+**Defragging your HDD** - Probably don't need to do this often, once every month or so, or after very large frequent file writes. FYI, Windows automatically sets a schedule to defrag your HDD every week by default.  To change the schedule or run it manually, go into **""My PC"" > Right-click your HDD > Properties > Tools > Defragment**. Analyze the drive and if it's over 10-15% fragmented, considered running the defrag.
+**Do NOT use third party tools to defrag your SSD.**
+**Note:** The native Windows 10 defragger is smart enough to know this, it won't give you the option if you try. Instead, what you will find is that Windows does a version of defragging once a month by default called 'Optimizing'. You can read a really good article about it [here](https://www.hanselman.com/blog/TheRealAndCompleteStoryDoesWindowsDefragmentYourSSD.aspx). In short, don't worry and let Windows do its thing. 
+&nbsp;
+**Backup:** 
+I use Windows Backup and Restore. I'm sure there are more comprehensive tools out there, some 3rd party ones which were suggested below, but there really isn't anything more comprehensive than creating a system image. You can do this by navigating to **Control Panel > All Control Panel Items > Backup and Restore (Windows 7)**. Once I have set up Windows to my liking I create a system image and store it on an external drive or a secondary HDD, preferably both. Do it periodically if you have the space. You will thank yourself if you ever run into an issue and need to restore from an image. 
+You can also use the Full or Incremental backup feature, but I prefer just to have a system image on hand in case of a failure. Backup all of your important files and documents to the cloud so they are safe from system coruption and accessible across your devices. Google Drive is a great tool. 
+* A system image is an exact copy, or clone, of your drive in that particular state when you created it. You can use it to restore the system after a catastrophic crash, hard disk failure, etc...
+* A Full Backup contains data files, but not everything on the disk. You cannot use it to restore the system.
+&nbsp;
+**System Restore:** 
+Go to **Control Panel > All Control Panel Items > System > System Protection**. Chose your C: drive and click ""Configure..."". Turn on system protection and choose a percentage of space you have to spare. 5% is typically more than enough. Use this option if you ever have an issue and need to restore to a particular point in time - before a faulty Windows update for instance. 
+&nbsp;
+**UPS:** 
+If you can afford to buy one, buy one. For those who don't know what they are, UPS stands for Uninterruptible Power Supply. I own two APC models I got from Amazon and living in Florida, they've saved my ass during many o' thunderstorms, power outages, brownouts and surges. Keeping a steady flow of electricity to my PC, it's good peace of mind to have. 
+If you are wondering, it is okay to plug a UPS into a quality surge protector like the Tripp Lite Isobar 2, home UPS devices typically don't have high joule ratings (surge protection). 
+&nbsp;
+**Physical Maintenance:** 
+I'm sure everyone has their own routine for this step, and depending on where your PC is located it may require more frequent cleaning/dusting. Always keep pressurized air (duster) handy. Once every few months or whenever you notice a dust build-up, open it up and blast it. **Hold your fans in place so you are not spinning the blades, this can generate an electrical current and potentially damage your circuit headers**. I would avoid using any sort of vacuum attachments as there is a good risk of damaging your components. For tempered glass, use a microfiber cloth to buff out any smudges. Glass cleaners are safe to use on tempered glass, but I would still dilute them so your mixture is half-water, half-cleaner. Other than that, find a nice cool place with good airflow to keep your machine running smoothly. 
+&nbsp; 
+***
+**Extras (optional steps):**
+**Calibrate monitors** – Windows has a color calibration tool built-in. Or if you’re lucky enough you will find a guide for your specific monitor. Just do a Google search for “Calibrate + Your monitor model” and see what kind of information is out there. Tom’s Hardware had a good one for my AOC and I have noticed more defined colors since doing it.  
+**Enable High Performance power plan** - Go to Control Panel > Power Options and choose the ""High Performance"" plan. 
+**Disable “Enhance pointer precision”** – Go to Control Panel > Mouse > Pointer options and uncheck “Enhance pointer precision”. This will give you more control over your mouse while gaming. You can read more on it [here]( http://www.thewindowsclub.com/enhance-pointer-precision-windows).
+**[Disable Cortana](https://gadgets.ndtv.com/laptops/features/how-to-disable-cortana-on-windows-10-1683223)** – I don’t know who uses Cortana, but it annoys the hell out of me. 
+**[Disable OneDrive](https://www.howtogeek.com/225973/how-to-disable-onedrive-and-remove-it-from-file-explorer-on-windows-10/)** - Only if you don't use it, I prefer Google Drive. 
+**[Disable Fast start up](https://www.howtogeek.com/243901/the-pros-and-cons-of-windows-10s-fast-startup-mode/)** - If you have an SSD, disable this. It will not affect restarting your PC, but when doing a shutdown it will not reinitialize drivers meaning any driver related issue you were having before your shutdown, will persist when booting up the next time. u/agent268 has a very informative [post](https://www.reddit.com/r/Surface/comments/4x7n41/psa_disable_fast_startup_to_force_windows_to_load/d6dghtm/) on it. 
+**Disable Remote Connections**  - Go to Control Panel > All Control Panel Items > System > Remote settings and uncheck ""Allow Remote Assistance connections to this computer"". Below that select ""Don't allow remote connections to this computer"" if you are not remoting in to it.  
+**Turn on Dark mode** - Right-click your Desktop and select ""Personalize"". Select ""Colors"" on the left, scroll to the bottom and select dark. [Makes it much easier on the eyes](https://i.imgur.com/zqTFowh.png). 
+&nbsp;
+***
+**Additional tools of the trade:**
+* [CrystalDiskInfo](https://crystalmark.info/software/CrystalDiskInfo/index-e.html) - Check drive status and health
+* [HWiNFO64](https://www.hwinfo.com/download/) - Hardware monitoring program that reports basically ever sensor your PC has to offer: voltages, temperatures, fans speed, etc...
+* [CPU-Z](https://www.cpuid.com/softwares/cpu-z.html) - Display information on Processor name and number, codename, process, package, cache levels. Mainboard and chipset. Memory type, size, timings, and module specifications (SPD). Real time measurement of each core's internal frequency, memory frequency.
+* [Geek Uninstaller](https://geekuninstaller.com/) - Use to completely uninstall an application along with leftover files and registry keys. This gives you even less reason to mess with your registry.
+* [Ninite.com](https://ninite.com/) - Allows you to easily batch install many common and essential programs in one step. (u/mrdirkles)
+* [WinDirStat](https://windirstat.net/download.html) - Disk usage statistics viewer and cleanup tool. If you don't know where all of your drive space is going, this tool will help you find out. (u/DelXL)
+* [Defraggler](https://www.piriform.com/defraggler) - An alternative to the native Windows defragment tool. Brought to you by the same folks that brought you CCleaner. (u/brightboy)
+* Use Acronis, Macrium or Easeus to backup your OS drive. This way you can revert to any point in time (like after a clean install and configuration) without the hassle of reinstalling updates/drivers. (u/wittywalrus1) 
+**I have used Macrium Free personally to clone an SSD and it went very well, I have not tried the others. As always, do your research.**
+&nbsp;
+I'm not going to include information on going buck wild disabling services and data logging because what I mentioned above is sufficient for me, but if you feel inclined you can search yourself and find some good posts on the subject. I don't recommend using the SpyBot tools because they modify system values and if you're going to do that, you should learn what you're doing and modify it yourself in case something goes wrong. In a recent Windows update they provided the ability to delete your stored diagnostic data in Settings > Privacy > Diagnostics & feedback > Scroll down to ""Delete diagnostic data"", just take it with a grain of salt as to what actually gets deleted. If you've stuck around this long, I love you."
+19,"I’m seeing so many posts about getting a 3090 for gaming. Do some more research on the card or at least wait until benchmarks are out until you make your decision. You’re paying over twice the price of a 3080 for essentially 14GB more VRAM which does not always lead to higher frame rates. Is the 3090 better than the 3080? Yes. Is the 3090 worth $800 more than the 3080 for gaming? No. You especially don’t need a 3090 if you’re asking if your CPU or PSU is good enough. Put the $800 you’ll save by getting a 3080 elsewhere in your build, such as your monitor so you can actually enjoy the full potential of the card."
